@@ -1,0 +1,3 @@
+Hello!
+This is a sample text file.
+You are learning to load files in Jupyter Notebook.

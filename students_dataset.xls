@@ -1,0 +1,11 @@
+Name,Age,City,Math_Score,Science_Score
+Amit,18,Delhi,78.0,88.0
+Riya,17,Mumbai,85.0,92.0
+Kabir,18,Kolkata,,81.0
+Sneha,17,Chennai,90.0,
+Arjun,19,Bengaluru,72.0,76.0
+Meera,18,Hyderabad,,85.0
+Rohit,17,Pune,88.0,91.0
+Sara,18,Delhi,84.0,87.0
+Tara,19,Chennai,79.0,
+Vishal,18,Mumbai,91.0,93.0
